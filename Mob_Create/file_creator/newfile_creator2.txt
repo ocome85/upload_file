@@ -588,3 +588,593 @@
                     () -> EntityType.Builder.of(Inui_Toko::new,
                                     MobCategory.MONSTER).sized(1f, 3f)
                             .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "inui_toko").toString()));
+    public static final RegistryObject<EntityType<Axia_Krone>> AXIA_KRONE =
+            ENTITY_TYPES.register("axia_krone",
+                    () -> EntityType.Builder.of(Axia_Krone::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "axia_krone").toString()));
+    public static final RegistryObject<EntityType<Ars_Almal>> ARS_ALMAL =
+            ENTITY_TYPES.register("ars_almal",
+                    () -> EntityType.Builder.of(Ars_Almal::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "ars_almal").toString()));
+    public static final RegistryObject<EntityType<Ange_Katrina>> ANGE_KATRINA =
+            ENTITY_TYPES.register("ange_katrina",
+                    () -> EntityType.Builder.of(Ange_Katrina::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "ange_katrina").toString()));
+    public static final RegistryObject<EntityType<Ibrahim>> IBRAHIM =
+            ENTITY_TYPES.register("ibrahim",
+                    () -> EntityType.Builder.of(Ibrahim::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "ibrahim").toString()));
+    public static final RegistryObject<EntityType<Ex_Albio>> EX_ALBIO =
+            ENTITY_TYPES.register("ex_albio",
+                    () -> EntityType.Builder.of(Ex_Albio::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "ex_albio").toString()));
+    public static final RegistryObject<EntityType<Emma_August>> EMMA_AUGUST =
+            ENTITY_TYPES.register("emma_august",
+                    () -> EntityType.Builder.of(Emma_August::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "emma_august").toString()));
+    public static final RegistryObject<EntityType<Eli_Conifer>> ELI_CONIFER =
+            ENTITY_TYPES.register("eli_conifer",
+                    () -> EntityType.Builder.of(Eli_Conifer::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "eli_conifer").toString()));
+    public static final RegistryObject<EntityType<Elu>> ELU =
+            ENTITY_TYPES.register("elu",
+                    () -> EntityType.Builder.of(Elu::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "elu").toString()));
+    public static final RegistryObject<EntityType<Oliver_Evans>> OLIVER_EVANS =
+            ENTITY_TYPES.register("oliver_evans",
+                    () -> EntityType.Builder.of(Oliver_Evans::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "oliver_evans").toString()));
+    public static final RegistryObject<EntityType<Gilzaren_III>> GILZAREN_III =
+            ENTITY_TYPES.register("gilzaren_iii",
+                    () -> EntityType.Builder.of(Gilzaren_III::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "gilzaren_iii").toString()));
+    public static final RegistryObject<EntityType<Gwelu_Os_Gar>> GWELU_OS_GAR =
+            ENTITY_TYPES.register("gwelu_os_gar",
+                    () -> EntityType.Builder.of(Gwelu_Os_Gar::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "gwelu_os_gar").toString()));
+    public static final RegistryObject<EntityType<Shellin_Burgundy>> SHELLIN_BURGUNDY =
+            ENTITY_TYPES.register("shellin_burgundy",
+                    () -> EntityType.Builder.of(Shellin_Burgundy::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "shellin_burgundy").toString()));
+    public static final RegistryObject<EntityType<Sister_Clairea>> SISTER_CLAIREA =
+            ENTITY_TYPES.register("sister_clairea",
+                    () -> EntityType.Builder.of(Sister_Clairea::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "sister_clairea").toString()));
+    public static final RegistryObject<EntityType<Joe_Rikiichi>> JOE_RIKIICHI =
+            ENTITY_TYPES.register("joe_rikiichi",
+                    () -> EntityType.Builder.of(Joe_Rikiichi::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "joe_rikiichi").toString()));
+    public static final RegistryObject<EntityType<Debidebi_Debiru>> DEBIDEBI_DEBIRU =
+            ENTITY_TYPES.register("debidebi_debiru",
+                    () -> EntityType.Builder.of(Debidebi_Debiru::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "debidebi_debiru").toString()));
+    public static final RegistryObject<EntityType<Dola>> DOLA =
+            ENTITY_TYPES.register("dola",
+                    () -> EntityType.Builder.of(Dola::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "dola").toString()));
+    public static final RegistryObject<EntityType<Nui_Sociere>> NUI_SOCIERE =
+            ENTITY_TYPES.register("nui_sociere",
+                    () -> EntityType.Builder.of(Nui_Sociere::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "nui_sociere").toString()));
+    public static final RegistryObject<EntityType<Fumi>> FUMI =
+            ENTITY_TYPES.register("fumi",
+                    () -> EntityType.Builder.of(Fumi::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "fumi").toString()));
+    public static final RegistryObject<EntityType<Furen_E_Lustario>> FUREN_E_LUSTARIO =
+            ENTITY_TYPES.register("furen_e_lustario",
+                    () -> EntityType.Builder.of(Furen_E_Lustario::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "furen_e_lustario").toString()));
+    public static final RegistryObject<EntityType<Belmond_Banderas>> BELMOND_BANDERAS =
+            ENTITY_TYPES.register("belmond_banderas",
+                    () -> EntityType.Builder.of(Belmond_Banderas::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "belmond_banderas").toString()));
+    public static final RegistryObject<EntityType<Mashiro>> MASHIRO =
+            ENTITY_TYPES.register("mashiro",
+                    () -> EntityType.Builder.of(Mashiro::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "mashiro").toString()));
+    public static final RegistryObject<EntityType<Melissa_Kinrenka>> MELISSA_KINRENKA =
+            ENTITY_TYPES.register("melissa_kinrenka",
+                    () -> EntityType.Builder.of(Melissa_Kinrenka::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "melissa_kinrenka").toString()));
+    public static final RegistryObject<EntityType<Moira>> MOIRA =
+            ENTITY_TYPES.register("moira",
+                    () -> EntityType.Builder.of(Moira::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "moira").toString()));
+    public static final RegistryObject<EntityType<Ratna_Petit>> RATNA_PETIT =
+            ENTITY_TYPES.register("ratna_petit",
+                    () -> EntityType.Builder.of(Ratna_Petit::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "ratna_petit").toString()));
+    public static final RegistryObject<EntityType<Lize_Helesta>> LIZE_HELESTA =
+            ENTITY_TYPES.register("lize_helesta",
+                    () -> EntityType.Builder.of(Lize_Helesta::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "lize_helesta").toString()));
+    public static final RegistryObject<EntityType<Luis_Cammy>> LUIS_CAMMY =
+            ENTITY_TYPES.register("luis_cammy",
+                    () -> EntityType.Builder.of(Luis_Cammy::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "luis_cammy").toString()));
+    public static final RegistryObject<EntityType<Lain_Paterson>> LAIN_PATERSON =
+            ENTITY_TYPES.register("lain_paterson",
+                    () -> EntityType.Builder.of(Lain_Paterson::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "lain_paterson").toString()));
+    public static final RegistryObject<EntityType<Levi_Elipha>> LEVI_ELIPHA =
+            ENTITY_TYPES.register("levi_elipha",
+                    () -> EntityType.Builder.of(Levi_Elipha::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "levi_elipha").toString()));
+    public static final RegistryObject<EntityType<Leos_Vincent>> LEOS_VINCENT =
+            ENTITY_TYPES.register("leos_vincent",
+                    () -> EntityType.Builder.of(Leos_Vincent::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "leos_vincent").toString()));
+    public static final RegistryObject<EntityType<Lauren_Iroas>> LAUREN_IROAS =
+            ENTITY_TYPES.register("lauren_iroas",
+                    () -> EntityType.Builder.of(Lauren_Iroas::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "lauren_iroas").toString()));
+    public static final RegistryObject<EntityType<Aizono_Manami>> AIZONO_MANAMI =
+            ENTITY_TYPES.register("aizono_manami",
+                    () -> EntityType.Builder.of(Aizono_Manami::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "aizono_manami").toString()));
+    public static final RegistryObject<EntityType<Azuchi_Momo>> AZUCHI_MOMO =
+            ENTITY_TYPES.register("azuchi_momo",
+                    () -> EntityType.Builder.of(Azuchi_Momo::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "azuchi_momo").toString()));
+    public static final RegistryObject<EntityType<Yamiyono_Moruru>> YAMIYONO_MORURU =
+            ENTITY_TYPES.register("yamiyono_moruru",
+                    () -> EntityType.Builder.of(Yamiyono_Moruru::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "yamiyono_moruru").toString()));
+    public static final RegistryObject<EntityType<Ushimi_Ichigo>> USHIMI_ICHIGO =
+            ENTITY_TYPES.register("ushimi_ichigo",
+                    () -> EntityType.Builder.of(Ushimi_Ichigo::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "ushimi_ichigo").toString()));
+    public static final RegistryObject<EntityType<Amemori_Sayo>> AMEMORI_SAYO =
+            ENTITY_TYPES.register("amemori_sayo",
+                    () -> EntityType.Builder.of(Amemori_Sayo::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "amemori_sayo").toString()));
+    public static final RegistryObject<EntityType<Uzuki_Kou>> UZUKI_KOU =
+            ENTITY_TYPES.register("uzuki_kou",
+                    () -> EntityType.Builder.of(Uzuki_Kou::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "uzuki_kou").toString()));
+    public static final RegistryObject<EntityType<Achikita_Chinami>> ACHIKITA_CHINAMI =
+            ENTITY_TYPES.register("achikita_chinami",
+                    () -> EntityType.Builder.of(Achikita_Chinami::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "achikita_chinami").toString()));
+    public static final RegistryObject<EntityType<Kagami_Hayato>> KAGAMI_HAYATO =
+            ENTITY_TYPES.register("kagami_hayato",
+                    () -> EntityType.Builder.of(Kagami_Hayato::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "kagami_hayato").toString()));
+    public static final RegistryObject<EntityType<Ienaga_Mugi>> IENAGA_MUGI =
+            ENTITY_TYPES.register("ienaga_mugi",
+                    () -> EntityType.Builder.of(Ienaga_Mugi::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "ienaga_mugi").toString()));
+    public static final RegistryObject<EntityType<Hanabatake_Chaika>> HANABATAKE_CHAIKA =
+            ENTITY_TYPES.register("hanabatake_chaika",
+                    () -> EntityType.Builder.of(Hanabatake_Chaika::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "hanabatake_chaika").toString()));
+    public static final RegistryObject<EntityType<Umiyashanokami>> UMIYASHANOKAMI =
+            ENTITY_TYPES.register("umiyashanokami",
+                    () -> EntityType.Builder.of(Umiyashanokami::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "umiyashanokami").toString()));
+    public static final RegistryObject<EntityType<Kuzuha>> KUZUHA =
+            ENTITY_TYPES.register("kuzuha",
+                    () -> EntityType.Builder.of(Kuzuha::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "kuzuha").toString()));
+    public static final RegistryObject<EntityType<Kanae>> KANAE =
+            ENTITY_TYPES.register("kanae",
+                    () -> EntityType.Builder.of(Kanae::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "kanae").toString()));
+    public static final RegistryObject<EntityType<Kudo_Chitose>> KUDO_CHITOSE =
+            ENTITY_TYPES.register("kudo_chitose",
+                    () -> EntityType.Builder.of(Kudo_Chitose::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "kudo_chitose").toString()));
+    public static final RegistryObject<EntityType<Sorahoshi_Kirame>> SORAHOSHI_KIRAME =
+            ENTITY_TYPES.register("sorahoshi_kirame",
+                    () -> EntityType.Builder.of(Sorahoshi_Kirame::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "sorahoshi_kirame").toString()));
+    public static final RegistryObject<EntityType<Gundo_Mirei>> GUNDO_MIREI =
+            ENTITY_TYPES.register("gundo_mirei",
+                    () -> EntityType.Builder.of(Gundo_Mirei::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "gundo_mirei").toString()));
+    public static final RegistryObject<EntityType<Tsukino_Mito>> TSUKINO_MITO =
+            ENTITY_TYPES.register("tsukino_mito",
+                    () -> EntityType.Builder.of(Tsukino_Mito::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "tsukino_mito").toString()));
+    public static final RegistryObject<EntityType<Tsukimi_Shizuku>> TSUKIMI_SHIZUKU =
+            ENTITY_TYPES.register("tsukimi_shizuku",
+                    () -> EntityType.Builder.of(Tsukimi_Shizuku::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "tsukimi_shizuku").toString()));
+    public static final RegistryObject<EntityType<Sukoya_Kana>> SUKOYA_KANA =
+            ENTITY_TYPES.register("sukoya_kana",
+                    () -> EntityType.Builder.of(Sukoya_Kana::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "sukoya_kana").toString()));
+    public static final RegistryObject<EntityType<Kenmochi_Toya>> KENMOCHI_TOYA =
+            ENTITY_TYPES.register("kenmochi_toya",
+                    () -> EntityType.Builder.of(Kenmochi_Toya::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "kenmochi_toya").toString()));
+    public static final RegistryObject<EntityType<Genzuki_Tojiro>> GENZUKI_TOJIRO =
+            ENTITY_TYPES.register("genzuki_tojiro",
+                    () -> EntityType.Builder.of(Genzuki_Tojiro::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "genzuki_tojiro").toString()));
+    public static final RegistryObject<EntityType<Otogibara_Era>> OTOGIBARA_ERA =
+            ENTITY_TYPES.register("otogibara_era",
+                    () -> EntityType.Builder.of(Otogibara_Era::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "otogibara_era").toString()));
+    public static final RegistryObject<EntityType<Kataribe_Tsumugu>> KATARIBE_TSUMUGU =
+            ENTITY_TYPES.register("kataribe_tsumugu",
+                    () -> EntityType.Builder.of(Kataribe_Tsumugu::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "kataribe_tsumugu").toString()));
+    public static final RegistryObject<EntityType<Kaida_Haru>> KAIDA_HARU =
+            ENTITY_TYPES.register("kaida_haru",
+                    () -> EntityType.Builder.of(Kaida_Haru::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "kaida_haru").toString()));
+    public static final RegistryObject<EntityType<Todoroki_Kyoko>> TODOROKI_KYOKO =
+            ENTITY_TYPES.register("todoroki_kyoko",
+                    () -> EntityType.Builder.of(Todoroki_Kyoko::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "todoroki_kyoko").toString()));
+    public static final RegistryObject<EntityType<Kuroi_Shiba>> KUROI_SHIBA =
+            ENTITY_TYPES.register("kuroi_shiba",
+                    () -> EntityType.Builder.of(Kuroi_Shiba::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "kuroi_shiba").toString()));
+    public static final RegistryObject<EntityType<Sakura_Ritsuki>> SAKURA_RITSUKI =
+            ENTITY_TYPES.register("sakura_ritsuki",
+                    () -> EntityType.Builder.of(Sakura_Ritsuki::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "sakura_ritsuki").toString()));
+    public static final RegistryObject<EntityType<Sasaki_Saku>> SASAKI_SAKU =
+            ENTITY_TYPES.register("sasaki_saku",
+                    () -> EntityType.Builder.of(Sasaki_Saku::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "sasaki_saku").toString()));
+    public static final RegistryObject<EntityType<Saegusa_Akina>> SAEGUSA_AKINA =
+            ENTITY_TYPES.register("saegusa_akina",
+                    () -> EntityType.Builder.of(Saegusa_Akina::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "saegusa_akina").toString()));
+    public static final RegistryObject<EntityType<Yamagami_Karuta>> YAMAGAMI_KARUTA =
+            ENTITY_TYPES.register("yamagami_karuta",
+                    () -> EntityType.Builder.of(Yamagami_Karuta::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "yamagami_karuta").toString()));
+    public static final RegistryObject<EntityType<Yashiro_Kizuku>> YASHIRO_KIZUKU =
+            ENTITY_TYPES.register("yashiro_kizuku",
+                    () -> EntityType.Builder.of(Yashiro_Kizuku::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "yashiro_kizuku").toString()));
+    public static final RegistryObject<EntityType<Suo_Sango>> SUO_SANGO =
+            ENTITY_TYPES.register("suo_sango",
+                    () -> EntityType.Builder.of(Suo_Sango::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "suo_sango").toString()));
+    public static final RegistryObject<EntityType<Shibuya_Hajime>> SHIBUYA_HAJIME =
+            ENTITY_TYPES.register("shibuya_hajime",
+                    () -> EntityType.Builder.of(Shibuya_Hajime::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "shibuya_hajime").toString()));
+    public static final RegistryObject<EntityType<Izumo_Kasumi>> IZUMO_KASUMI =
+            ENTITY_TYPES.register("izumo_kasumi",
+                    () -> EntityType.Builder.of(Izumo_Kasumi::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "izumo_kasumi").toString()));
+    public static final RegistryObject<EntityType<Harusaki_Air>> HARUSAKI_AIR =
+            ENTITY_TYPES.register("harusaki_air",
+                    () -> EntityType.Builder.of(Harusaki_Air::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "harusaki_air").toString()));
+    public static final RegistryObject<EntityType<Onomachi_Haruka>> ONOMACHI_HARUKA =
+            ENTITY_TYPES.register("onomachi_haruka",
+                    () -> EntityType.Builder.of(Onomachi_Haruka::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "onomachi_haruka").toString()));
+    public static final RegistryObject<EntityType<Morinaka_Kazaki>> MORINAKA_KAZAKI =
+            ENTITY_TYPES.register("morinaka_kazaki",
+                    () -> EntityType.Builder.of(Morinaka_Kazaki::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "morinaka_kazaki").toString()));
+    public static final RegistryObject<EntityType<Kanda_Shoichi>> KANDA_SHOICHI =
+            ENTITY_TYPES.register("kanda_shoichi",
+                    () -> EntityType.Builder.of(Kanda_Shoichi::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "kanda_shoichi").toString()));
+    public static final RegistryObject<EntityType<Seto_Miyako>> SETO_MIYAKO =
+            ENTITY_TYPES.register("seto_miyako",
+                    () -> EntityType.Builder.of(Seto_Miyako::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "seto_miyako").toString()));
+    public static final RegistryObject<EntityType<Naruse_Naru>> NARUSE_NARU =
+            ENTITY_TYPES.register("naruse_naru",
+                    () -> EntityType.Builder.of(Naruse_Naru::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "naruse_naru").toString()));
+    public static final RegistryObject<EntityType<Hoshikawa_Sara>> HOSHIKAWA_SARA =
+            ENTITY_TYPES.register("hoshikawa_sara",
+                    () -> EntityType.Builder.of(Hoshikawa_Sara::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "hoshikawa_sara").toString()));
+    public static final RegistryObject<EntityType<Nishizono_Chigusa>> NISHIZONO_CHIGUSA =
+            ENTITY_TYPES.register("nishizono_chigusa",
+                    () -> EntityType.Builder.of(Nishizono_Chigusa::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "nishizono_chigusa").toString()));
+    public static final RegistryObject<EntityType<Shizuka_Rin>> SHIZUKA_RIN =
+            ENTITY_TYPES.register("shizuka_rin",
+                    () -> EntityType.Builder.of(Shizuka_Rin::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "shizuka_rin").toString()));
+    public static final RegistryObject<EntityType<Akabane_Youko>> AKABANE_YOUKO =
+            ENTITY_TYPES.register("akabane_youko",
+                    () -> EntityType.Builder.of(Akabane_Youko::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "akabane_youko").toString()));
+    public static final RegistryObject<EntityType<Yukishiro_Mahiro>> YUKISHIRO_MAHIRO =
+            ENTITY_TYPES.register("yukishiro_mahiro",
+                    () -> EntityType.Builder.of(Yukishiro_Mahiro::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "yukishiro_mahiro").toString()));
+    public static final RegistryObject<EntityType<Setsuna>> SETSUNA =
+            ENTITY_TYPES.register("setsuna",
+                    () -> EntityType.Builder.of(Setsuna::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "setsuna").toString()));
+    public static final RegistryObject<EntityType<Hayase_Sou>> HAYASE_SOU =
+            ENTITY_TYPES.register("hayase_sou",
+                    () -> EntityType.Builder.of(Hayase_Sou::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "hayase_sou").toString()));
+    public static final RegistryObject<EntityType<Aiba_Uiha>> AIBA_UIHA =
+            ENTITY_TYPES.register("aiba_uiha",
+                    () -> EntityType.Builder.of(Aiba_Uiha::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "aiba_uiha").toString()));
+    public static final RegistryObject<EntityType<Mayuzumi_Kai>> MAYUZUMI_KAI =
+            ENTITY_TYPES.register("mayuzumi_kai",
+                    () -> EntityType.Builder.of(Mayuzumi_Kai::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "mayuzumi_kai").toString()));
+    public static final RegistryObject<EntityType<Takamiya_Rion>> TAKAMIYA_RION =
+            ENTITY_TYPES.register("takamiya_rion",
+                    () -> EntityType.Builder.of(Takamiya_Rion::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "takamiya_rion").toString()));
+    public static final RegistryObject<EntityType<Asahina_Akane>> ASAHINA_AKANE =
+            ENTITY_TYPES.register("asahina_akane",
+                    () -> EntityType.Builder.of(Asahina_Akane::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "asahina_akane").toString()));
+    public static final RegistryObject<EntityType<Machita_Chima>> MACHITA_CHIMA =
+            ENTITY_TYPES.register("machita_chima",
+                    () -> EntityType.Builder.of(Machita_Chima::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "machita_chima").toString()));
+    public static final RegistryObject<EntityType<Nagao_Kei>> NAGAO_KEI =
+            ENTITY_TYPES.register("nagao_kei",
+                    () -> EntityType.Builder.of(Nagao_Kei::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "nagao_kei").toString()));
+    public static final RegistryObject<EntityType<Shiina_Yuika>> SHIINA_YUIKA =
+            ENTITY_TYPES.register("shiina_yuika",
+                    () -> EntityType.Builder.of(Shiina_Yuika::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "shiina_yuika").toString()));
+    public static final RegistryObject<EntityType<Amamiya_Kokoro>> AMAMIYA_KOKORO =
+            ENTITY_TYPES.register("amamiya_kokoro",
+                    () -> EntityType.Builder.of(Amamiya_Kokoro::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "amamiya_kokoro").toString()));
+    public static final RegistryObject<EntityType<Todo_Kohaku>> TODO_KOHAKU =
+            ENTITY_TYPES.register("todo_kohaku",
+                    () -> EntityType.Builder.of(Todo_Kohaku::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "todo_kohaku").toString()));
+    public static final RegistryObject<EntityType<Warabeda_Meiji>> WARABEDA_MEIJI =
+            ENTITY_TYPES.register("warabeda_meiji",
+                    () -> EntityType.Builder.of(Warabeda_Meiji::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "warabeda_meiji").toString()));
+    public static final RegistryObject<EntityType<Naraka>> NARAKA =
+            ENTITY_TYPES.register("naraka",
+                    () -> EntityType.Builder.of(Naraka::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "naraka").toString()));
+    public static final RegistryObject<EntityType<Shirayuki_Tomoe>> SHIRAYUKI_TOMOE =
+            ENTITY_TYPES.register("shirayuki_tomoe",
+                    () -> EntityType.Builder.of(Shirayuki_Tomoe::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "shirayuki_tomoe").toString()));
+    public static final RegistryObject<EntityType<Hassaku_Yuzu>> HASSAKU_YUZU =
+            ENTITY_TYPES.register("hassaku_yuzu",
+                    () -> EntityType.Builder.of(Hassaku_Yuzu::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "hassaku_yuzu").toString()));
+    public static final RegistryObject<EntityType<Asuka_Hina>> ASUKA_HINA =
+            ENTITY_TYPES.register("asuka_hina",
+                    () -> EntityType.Builder.of(Asuka_Hina::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "asuka_hina").toString()));
+    public static final RegistryObject<EntityType<Higuchi_Kaede>> HIGUCHI_KAEDE =
+            ENTITY_TYPES.register("higuchi_kaede",
+                    () -> EntityType.Builder.of(Higuchi_Kaede::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "higuchi_kaede").toString()));
+    public static final RegistryObject<EntityType<Fuwa_Minato>> FUWA_MINATO =
+            ENTITY_TYPES.register("fuwa_minato",
+                    () -> EntityType.Builder.of(Fuwa_Minato::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "fuwa_minato").toString()));
+    public static final RegistryObject<EntityType<Maimoto_Keisuke>> MAIMOTO_KEISUKE =
+            ENTITY_TYPES.register("maimoto_keisuke",
+                    () -> EntityType.Builder.of(Maimoto_Keisuke::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "maimoto_keisuke").toString()));
+    public static final RegistryObject<EntityType<Fushimi_Gaku>> FUSHIMI_GAKU =
+            ENTITY_TYPES.register("fushimi_gaku",
+                    () -> EntityType.Builder.of(Fushimi_Gaku::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "fushimi_gaku").toString()));
+    public static final RegistryObject<EntityType<Mononobe_Alice>> MONONOBE_ALICE =
+            ENTITY_TYPES.register("mononobe_alice",
+                    () -> EntityType.Builder.of(Mononobe_Alice::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "mononobe_alice").toString()));
+    public static final RegistryObject<EntityType<Fumino_Tamaki>> FUMINO_TAMAKI =
+            ENTITY_TYPES.register("fumino_tamaki",
+                    () -> EntityType.Builder.of(Fumino_Tamaki::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "fumino_tamaki").toString()));
+    public static final RegistryObject<EntityType<Kitakoji_Hisui>> KITAKOJI_HISUI =
+            ENTITY_TYPES.register("kitakoji_hisui",
+                    () -> EntityType.Builder.of(Kitakoji_Hisui::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "kitakoji_hisui").toString()));
+    public static final RegistryObject<EntityType<Honma_Himawari>> HONMA_HIMAWARI =
+            ENTITY_TYPES.register("honma_himawari",
+                    () -> EntityType.Builder.of(Honma_Himawari::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "honma_himawari").toString()));
+    public static final RegistryObject<EntityType<Makaino_Ririmu>> MAKAINO_RIRIMU =
+            ENTITY_TYPES.register("makaino_ririmu",
+                    () -> EntityType.Builder.of(Makaino_Ririmu::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "makaino_ririmu").toString()));
+    public static final RegistryObject<EntityType<Matsukai_Mao>> MATSUKAI_MAO =
+            ENTITY_TYPES.register("matsukai_mao",
+                    () -> EntityType.Builder.of(Matsukai_Mao::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "matsukai_mao").toString()));
+    public static final RegistryObject<EntityType<Yuzuki_Roa>> YUZUKI_ROA =
+            ENTITY_TYPES.register("yuzuki_roa",
+                    () -> EntityType.Builder.of(Yuzuki_Roa::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "yuzuki_roa").toString()));
+    public static final RegistryObject<EntityType<Yumeoi_Kakeru>> YUMEOI_KAKERU =
+            ENTITY_TYPES.register("yumeoi_kakeru",
+                    () -> EntityType.Builder.of(Yumeoi_Kakeru::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "yumeoi_kakeru").toString()));
+    public static final RegistryObject<EntityType<Nakao_Azuma>> NAKAO_AZUMA =
+            ENTITY_TYPES.register("nakao_azuma",
+                    () -> EntityType.Builder.of(Nakao_Azuma::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "nakao_azuma").toString()));
+    public static final RegistryObject<EntityType<Yorumi_Rena>> YORUMI_RENA =
+            ENTITY_TYPES.register("yorumi_rena",
+                    () -> EntityType.Builder.of(Yorumi_Rena::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "yorumi_rena").toString()));
+    public static final RegistryObject<EntityType<Yaguruma_Rine>> YAGURUMA_RINE =
+            ENTITY_TYPES.register("yaguruma_rine",
+                    () -> EntityType.Builder.of(Yaguruma_Rine::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "yaguruma_rine").toString()));
+    public static final RegistryObject<EntityType<Yuki_Chihiro>> YUKI_CHIHIRO =
+            ENTITY_TYPES.register("yuki_chihiro",
+                    () -> EntityType.Builder.of(Yuki_Chihiro::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "yuki_chihiro").toString()));
+    public static final RegistryObject<EntityType<Yuhi_Riri>> YUHI_RIRI =
+            ENTITY_TYPES.register("yuhi_riri",
+                    () -> EntityType.Builder.of(Yuhi_Riri::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "yuhi_riri").toString()));
+    public static final RegistryObject<EntityType<Hakase_Fuyuki>> HAKASE_FUYUKI =
+            ENTITY_TYPES.register("hakase_fuyuki",
+                    () -> EntityType.Builder.of(Hakase_Fuyuki::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "hakase_fuyuki").toString()));
+    public static final RegistryObject<EntityType<Hayama_Marin>> HAYAMA_MARIN =
+            ENTITY_TYPES.register("hayama_marin",
+                    () -> EntityType.Builder.of(Hayama_Marin::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "hayama_marin").toString()));
+    public static final RegistryObject<EntityType<Kurusu_Natsume>> KURUSU_NATSUME =
+            ENTITY_TYPES.register("kurusu_natsume",
+                    () -> EntityType.Builder.of(Kurusu_Natsume::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "kurusu_natsume").toString()));
+    public static final RegistryObject<EntityType<Rindou_Mikoto>> RINDOU_MIKOTO =
+            ENTITY_TYPES.register("rindou_mikoto",
+                    () -> EntityType.Builder.of(Rindou_Mikoto::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "rindou_mikoto").toString()));
+    public static final RegistryObject<EntityType<Ryushen>> RYUSHEN =
+            ENTITY_TYPES.register("ryushen",
+                    () -> EntityType.Builder.of(Ryushen::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "ryushen").toString()));
+    public static final RegistryObject<EntityType<Suzuhara_Lulu>> SUZUHARA_LULU =
+            ENTITY_TYPES.register("suzuhara_lulu",
+                    () -> EntityType.Builder.of(Suzuhara_Lulu::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "suzuhara_lulu").toString()));
+    public static final RegistryObject<EntityType<Suzuka_Utako>> SUZUKA_UTAKO =
+            ENTITY_TYPES.register("suzuka_utako",
+                    () -> EntityType.Builder.of(Suzuka_Utako::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "suzuka_utako").toString()));
+    public static final RegistryObject<EntityType<Suzuya_Aki>> SUZUYA_AKI =
+            ENTITY_TYPES.register("suzuya_aki",
+                    () -> EntityType.Builder.of(Suzuya_Aki::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "suzuya_aki").toString()));
+    public static final RegistryObject<EntityType<Suzuki_Masaru>> SUZUKI_MASARU =
+            ENTITY_TYPES.register("suzuki_masaru",
+                    () -> EntityType.Builder.of(Suzuki_Masaru::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "suzuki_masaru").toString()));
+    public static final RegistryObject<EntityType<Inui_Toko>> INUI_TOKO =
+            ENTITY_TYPES.register("inui_toko",
+                    () -> EntityType.Builder.of(Inui_Toko::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "inui_toko").toString()));

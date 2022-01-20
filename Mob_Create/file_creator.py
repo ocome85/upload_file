@@ -7,7 +7,7 @@ scope = ['https://spreadsheets.google.com/feeds','https://www.googleapis.com/aut
 
 corepath ="C:\\Users\\koyos\\Desktop\\Forge\\tool\\upload_file\\Mob_Create\\"
 # 秘密鍵（JSONファイル）のファイル名を入力
-credentials = ServiceAccountCredentials.from_json_keyfile_name(corepath + "minecraftforge.json", scope)
+credentials = ServiceAccountCredentials.from_json_keyfile_name(corepath + "key\\minecraftforge.json", scope)
 gc = gspread.authorize(credentials)
 
  
