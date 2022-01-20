@@ -1,0 +1,5 @@
+    public static final RegistryObject<EntityType<Test>> TEST =
+            ENTITY_TYPES.register("test",
+                    () -> EntityType.Builder.of(Test::new,
+                                    MobCategory.MONSTER).sized(1f, 3f)
+                            .build(new ResourceLocation(NijisanjiWorldMod.MOD_ID, "test").toString()));
