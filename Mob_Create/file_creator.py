@@ -14,6 +14,7 @@ gc = gspread.authorize(credentials)
 #Google スプレッドシート名
 wb = gc.open('Minecraft_Nijisanji_Mod')
 ws = wb.get_worksheet(0)
+#2列目をすべて取得　この文字列分変換してコードを作成します
 col_list = ws.col_values(2)
 
 #ファイルパスを記入
