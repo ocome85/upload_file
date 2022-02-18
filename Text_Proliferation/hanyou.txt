@@ -1,0 +1,1 @@
+  "entity.nijisanjiworldmod.test":"sampletext",
